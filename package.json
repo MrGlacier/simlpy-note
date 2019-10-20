@@ -1,0 +1,26 @@
+{
+  "name": "simlpy-note",
+  "version": "0.0.1",
+  "description": "Eine einfache Notiz Elektron App.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrGlacier/simlpy-note.git"
+  },
+  "keywords": [],
+  "author": "MrGlacier <github@g-playground.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrGlacier/simlpy-note/issues"
+  },
+  "homepage": "https://github.com/MrGlacier/simlpy-note#readme",
+  "dependencies": {
+    "trumbowyg": "^2.19.1"
+  },
+  "devDependencies": {
+    "electron": "^6.0.12"
+  }
+}

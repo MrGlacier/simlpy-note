@@ -1,2 +1,3 @@
-# simlpy-note
-Eine einfache Notiz Elektron App.
+# Simlpy Note
+
+Eine einfache Notiz App.
