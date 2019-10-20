@@ -1,8 +1,0 @@
-v0.0.1
-# sqlite anbinden
-# Notizbuch anlegen
-# Abschnitte anlgene
-# Seite anlegen
-# alles in db speichern
-# trumbowyg (wysiwyg editor) einbinden
-# bootstrab?
