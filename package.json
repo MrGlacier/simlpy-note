@@ -2,9 +2,10 @@
   "name": "simlpy-note",
   "version": "0.0.1",
   "description": "Eine einfache Notiz Elektron App.",
-  "main": "main.js",
+  "main": "simply-node/main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "build-css": "node-sass --watch ./sass/main.scss ./simply-node/css/main.css"
   },
   "repository": {
     "type": "git",
@@ -18,9 +19,14 @@
   },
   "homepage": "https://github.com/MrGlacier/simlpy-note#readme",
   "dependencies": {
-    "trumbowyg": "^2.19.1"
+    "jquery": "^3.4.1",
+    "lowdb": "^1.0.0",
+    "popper.js": "^1.16.0",
+    "trumbowyg": "^2.19.1",
+    "bootstrap": "^4.3.1"
   },
   "devDependencies": {
-    "electron": "^6.0.12"
+    "electron": "^6.0.12",
+    "node-sass": "^4.12.0"
   }
 }

@@ -7,4 +7,4 @@ Eine einfache Notiz App.
 * Node
 * Electron
 * trumbowyg
-* ...
+* lowdb - json datenbank
